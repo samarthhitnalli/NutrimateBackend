@@ -13,14 +13,14 @@
 -->
 
 ## 📖 Table of Contents
-- ⭐ Overview](#-overview)
-- ✨ Key Features](#-key-features)
-- 🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
-- 📸 Demo & Screenshots](#-demo--screenshots)
-- 🚀 Getting Started](#-getting-started)
-- 🔧 Usage](#-usage)
-- 🤝 Contributing](#-contributing)
-- 📝 License](#-license)
+- ⭐ Overview(#-overview)
+- ✨ Key Features(#-key-features)
+- 🛠️ Tech Stack & Architecture(#️-tech-stack--architecture)
+- 📸 Demo & Screenshots(#-demo--screenshots)
+- 🚀 Getting Started(#-getting-started)
+- 🔧 Usage(#-usage)
+- 🤝 Contributing(#-contributing)
+- 📝 License(#-license)
 
 ## ⭐ Overview
 
