@@ -16,7 +16,6 @@
 - ⭐ [Overview](#-overview)
 - ✨ [Key Features](#-key-features)
 - 🛠️ [Tech Stack & Architecture](#️-tech-stack--architecture)
-- 📸 [Demo & Screenshots](#-demo--screenshots)
 - 🚀 [Getting Started](#-getting-started)
 - 🔧 [Usage](#-usage)
 - 🤝 [Contributing](#-contributing)
@@ -63,20 +62,6 @@ This project is a Python-based RESTful API, built on the Flask framework, design
 | Joblib / SciPy           | Model persistence & scientific computing     | Efficiently saves and loads precomputed ML models and supports complex numerical operations. |
 | Flask-CORS               | Cross-Origin Resource Sharing                | Enables secure communication between the API and diverse frontend applications.        |
 | Python-Dotenv            | Environment variable management              | Securely manages sensitive configuration details and API keys.                         |
-
-## 📸 Demo & Screenshots
-
-<img src="https://placehold.co/800x450/2d2d4d/ffffff?text=App+Screenshot+1" alt="App Screenshot 1" width="100%">
-<em><p align="center">Illustrative example of the NutriMate API processing a recipe recommendation query.</p></em>
-<img src="https://placehold.co/800x450/2d2d4d/ffffff?text=App+Screenshot+2" alt="App Screenshot 2" width="100%">
-<em><p align="center">Visual representation of recommended recipes and their key attributes returned by the API.</p></em>
-
-## 🎬 Video Demos
-
-<a href="https://example.com/your-video-link-1" target="_blank">
-  <img src="https://placehold.co/800x450/2d2d4d/c5a8ff?text=Watch+Video+Demo+1" alt="Video Demo 1" width="100%">
-</a>
-<em><p align="center">A demonstration of the NutriMate API's innovative image-to-recipe analysis feature using Gemini AI.</p></em>
 
 ## 🚀 Getting Started
 
