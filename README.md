@@ -13,14 +13,14 @@
 -->
 
 ## 📖 Table of Contents
-- [⭐ Overview](#-overview)
-- [✨ Key Features](#-key-features)
-- [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
-- [📸 Demo & Screenshots](#-demo--screenshots)
-- [🚀 Getting Started](#-getting-started)
-- [🔧 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
+- ⭐ Overview](#-overview)
+- ✨ Key Features](#-key-features)
+- 🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
+- 📸 Demo & Screenshots](#-demo--screenshots)
+- 🚀 Getting Started](#-getting-started)
+- 🔧 Usage](#-usage)
+- 🤝 Contributing](#-contributing)
+- 📝 License](#-license)
 
 ## ⭐ Overview
 
@@ -95,8 +95,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/samarthhitnalli/NutrimateBackend-74ec44a.git
-    cd NutrimateBackend-74ec44a
+    git clone https://github.com/samarthhitnalli/NutrimateBackend.git
+    cd NutrimateBackend
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -119,8 +119,6 @@ Before you begin, ensure you have the following installed:
     # .env
     # Example for Google Generative AI
     GOOGLE_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
-    # Example for OpenAI, if used
-    OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
     ```
     *Refer to the Google Cloud AI documentation to obtain your Gemini API key.*
 
