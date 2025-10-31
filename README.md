@@ -97,16 +97,6 @@ Before you begin, ensure you have the following installed:
     pip install -r requirements.txt
     ```
 
-4.  **Set up environment variables:**
-    Create a `.env` file in the root directory of the project, based on `config.py`. You'll need API keys for Google Gemini (and potentially OpenAI if configured).
-
-    ```dotenv
-    # .env
-    # Example for Google Generative AI
-    GOOGLE_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
-    ```
-    *Refer to the Google Cloud AI documentation to obtain your Gemini API key.*
-
 ## 🔧 Usage
 
 Once the API is installed and configured, you can run it locally and interact with its endpoints.
